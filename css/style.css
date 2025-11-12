@@ -89,7 +89,7 @@ select {
 }
 
 hr {
-  margin: 20px 0px;
+  margin: 20px 0;
   border: 0;
   border-bottom: 1px solid #b3b3b3;
 }
