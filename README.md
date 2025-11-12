@@ -1,4 +1,4 @@
-# 🎧 Spotify Page
+# 🎵 Spotify Page
 
 Este é um projeto de estudo pessoal recriando a página inicial do Spotify, desenvolvido com **HTML** e **CSS** para fins de aprendizado e prática de layout responsivo.
 
@@ -9,8 +9,8 @@ Este é um projeto de estudo pessoal recriando a página inicial do Spotify, des
 
 ## 🖥️ Tecnologias Utilizadas
 
-- HTML5  
-- CSS3  
+- HTML5
+- CSS3
 
 ---
 

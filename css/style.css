@@ -70,12 +70,12 @@ select {
 
 #birthdate input,
 select {
-  margin: 0px 7px;
+  margin: 0 7px;
   color: #b3b3b3;
 }
 
 .gender {
-  margin: 15px 0px 10px 0px;
+  margin: 15px 0 10px 0;
   font-size: 13px;
 }
 
